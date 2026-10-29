@@ -8,7 +8,7 @@
 
 """
 #   ==============================================
-#   Ejercicio 2: : Encapsulamiento y Validaciones  
+#   Ejercicio 2: Encapsulamiento y Validaciones  
 #   ==============================================
 
 class CuentaBancaria:
