@@ -8,7 +8,7 @@
 
 """
 #   =================================================
-#   Ejercicio 4: : Polimorfismo y Arreglos de Objetos 
+#   Ejercicio 4: Polimorfismo y Arreglos de Objetos 
 #   =================================================
 
 class Empleado:
