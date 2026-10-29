@@ -8,7 +8,7 @@
 
 """
 #   ==================================================
-#   Ejercicio 5: : Composición y Relación entre Clases
+#   Ejercicio 5: Composición y Relación entre Clases
 #   ==================================================
 
 class Producto:
